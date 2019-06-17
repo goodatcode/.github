@@ -1,8 +1,8 @@
 ---
 name: How To Use Lighthouse
-about: Describe this issue template's purpose here.
+about: Provides overview of how to use Lighthouse and links to additional resources
 title: How To Use Lighthouse
-labels: Tutorial
+labels: Site Audits, Tutorial
 assignees: ''
 
 ---
