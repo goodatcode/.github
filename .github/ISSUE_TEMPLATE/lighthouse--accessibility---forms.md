@@ -3,7 +3,7 @@ name: 'Lighthouse: Accessibility - Forms'
 about: 'Instructions for creating or improving forms to make them accessible when
   visitors use screen readers '
 title: 'Lighthouse: Accessibility - Forms'
-labels: Site Audits, Tutorial, Accessibility
+labels: Accessibility, Site Audits, Tutorial
 assignees: ''
 
 ---
