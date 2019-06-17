@@ -1,6 +1,6 @@
 ---
 name: 'Lighthouse: Accessibility - Links'
-about: Describe this issue template's purpose here.
+about: AKA Links must have discernible text
 title: 'Lighthouse: Accessibility - Links'
 labels: Accessibility, Site Audits, Tutorial
 assignees: ''
